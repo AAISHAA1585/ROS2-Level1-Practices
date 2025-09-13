@@ -23,21 +23,21 @@ Colcon build system <br>
 1]Navigate to your workspace<br>
   cd ~/ros2_ws<br>
 
-2]Build the package
- colcon build --packages-select servo_visualizer
+2]Build the package<br>
+ colcon build --packages-select servo_visualizer<br>
 
-3]Source the workspace
- source install/setup.bash
+3]Source the workspace<br>
+ source install/setup.bash<br>
 
-4]Run the node
- ros2 run servo_visualizer servo_node
+4]Run the node<br>
+ ros2 run servo_visualizer servo_node<br>
 
 
-What I learn:
--How a ROS2 package is structured (package.xml, setup.py, src).
--How to build packages using colcon.
--How to source and run nodes in ROS2.
--The first step toward controlling actuators (servos, motors) in robotics.
+What I learn:<br>
+-How a ROS2 package is structured (package.xml, setup.py, src).<br>
+-How to build packages using colcon.<br>
+-How to source and run nodes in ROS2.<br>
+-The first step toward controlling actuators (servos, motors) in robotics.<br>
 
 Demo:
 
