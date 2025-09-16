@@ -58,4 +58,6 @@ What I Learned<br>
 Demo:
 
 ![Turtle_hexagon](turtle.png)
-![Turtle_hexagon](Screenshot 2025-09-16 170619.png)
+
+![Turtle_hexagon](Complete_hexagon.png)
+
