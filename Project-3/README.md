@@ -1,4 +1,4 @@
-## Turtle Hexagon Path Follower ##<br>
+## Turtle Hexagon Path Follower <br>
 
 ## Overview<br>
 The Turtle Hexagon Path Follower is a ROS2 project built using the `turtlesim` simulator.<br>  
@@ -55,4 +55,7 @@ What I Learned<br>
 -Automation of robot movement<br>
 
 
+Demo:
 
+![Turtle_hexagon](turtle.png)
+![Turtle_hexagon](Screenshot 2025-09-16 170619.png)
